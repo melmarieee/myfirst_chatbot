@@ -1,0 +1,38 @@
+body {
+    background-color: #61AEC5 !important;
+}
+
+.chatbot-container{
+    background-color:aqua;
+    border-radius: 100px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.div1-container{
+    padding-top: 100px;
+    padding-bottom: 50px;
+   
+}
+h3 {
+    color: #F678A7 !important;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 46px !important;
+}
+
+.button-container{
+    text-align: center;
+    margin-left: 180px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+   border-radius: 20px;
+   background-color: #F678A7 !important;
+   height: 50px;
+   width: 120px;
+   border-color: #E64072 !important;
+}
+
+.img-container{
+    padding-top: 50px;
+}
