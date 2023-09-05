@@ -19,6 +19,14 @@
                 <br>
                 <br>
                 <button onclick="chat()" class="button-container">Chat now</button>
+                <div class="col-auto">
+                    <input oninput="validate(this)" placeholder="Please type here" type="text" id="inputtext" class="form-control"  maxlength="150">
+                </div>
+                <div class="col-auto">
+                    <span  class="form-text">
+                     Remaining characters: <span id="remaining">150</span>
+                    </span>
+                </div>
             </div>
             <div class="col-md-4"></div>
         </div>
